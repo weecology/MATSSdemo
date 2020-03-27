@@ -1,0 +1,22 @@
+Package: MATSSdemo
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Hao",
+           family = "Ye",
+           role = c("aut", "cre"),
+           email = "hao.ye@weecology.org",
+           comment = c(ORCID = "0000-0002-8630-1458"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    MATSS,
+    drake,
+    dplyr,
+    tidyr,
+    ggplot2,
+    rmarkdown,
+    rlang
+RoxygenNote: 7.1.0

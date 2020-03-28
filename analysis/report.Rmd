@@ -1,6 +1,6 @@
 ---
 title: "Summary Report"
-author: "Travis CI"
+author: "Weecology Deploy Bot"
 date: "`r Sys.Date()`"
 output: github_document
 bibliography: references.bib

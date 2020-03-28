@@ -2,11 +2,11 @@ Package: MATSSdemo
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Hao",
-           family = "Ye",
+    person(given = "First",
+           family = "Last",
            role = c("aut", "cre"),
-           email = "hao.ye@weecology.org",
-           comment = c(ORCID = "0000-0002-8630-1458"))
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -19,4 +19,3 @@ Imports:
     ggplot2,
     rmarkdown,
     rlang
-RoxygenNote: 7.1.0

@@ -1,5 +1,5 @@
 :rotating_light: **THIS IS AN AUTO-GENERATED EXAMPLE COMPENDIUM** :rotating_light:
-,*last updated: ,18375,*
+*last updated: 2020-04-23*
 
 # MATSSdemo
 

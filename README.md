@@ -1,13 +1,13 @@
 :rotating_light: **THIS IS AN AUTO-GENERATED EXAMPLE COMPENDIUM** :rotating_light:
 
-*last updated: 2020-04-30*
+*last updated: 2020-05-13*
 
 # MATSSdemo
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-MATSSdemo is an example research compendium, created by [`MATSS`](https://weecology.github.io/MATSS/), version 0.3.2; (Hao Ye, Ellen K. Bledsoe, Renata Diaz, S. K. Morgan Ernest, Juniper L. Simonis, Ethan P. White, & Glenda M. Yenni. (2020, February 5). Macroecological Analyses of Time Series Structure (Version v0.2.0). Zenodo. http://doi.org/10.5281/zenodo.3643617).
+MATSSdemo is an example research compendium, created by [`MATSS`](https://weecology.github.io/MATSS/), version 0.3.2; (Hao Ye, Ellen K. Bledsoe, Renata Diaz, S. K. Morgan Ernest, Juniper L. Simonis, Ethan P. White, & Glenda M. Yenni. (2020, May 13). Macroecological Analyses of Time Series Structure (Version v0.3.2). Zenodo. http://doi.org/10.5281/zenodo.3823768).
 
 ## File/Folder Structure
 
